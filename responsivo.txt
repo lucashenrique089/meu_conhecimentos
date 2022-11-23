@@ -1,0 +1,61 @@
+@media screen and (max-width:375px) {
+    .icon-menu .menu{
+        display: block;
+    }
+
+    #barra-menu{
+        height: 100vh;
+        z-index: 1;
+    
+    }
+    .c-btn{
+        background-color: #009DD6;
+        color: #fcfcfc;
+        text-transform: none;
+        border: 5px solid transparent;
+        font-weight: bold;
+    }
+
+    .Main h1,h3,h4{
+        font-size: 20px;
+    }
+    .Container-btn form{
+        width: 180px;
+        max-width: 100%;
+        position: relative;
+        margin-left: 2px;
+    }
+
+    .backgroud-color-sobre{
+        align-items: center;
+        text-align: center;
+    }
+
+    .main-sobre img{
+        width: 280px;
+        height: auto;
+        border-radius: 10px;
+        margin-left: -80px;
+        align-items: center;
+    }
+
+    .text-sobre h1{
+        margin-left: -1080px;
+        font-size: 30px;
+        
+    }
+
+    .text-sobre h3{
+        margin-left: -1080px;
+        font-size: 20px;
+        
+    }
+
+    .text-sobre p{
+        margin-left: -180px;
+        margin-bottom: -580px;
+        font-size: 20px;
+        text-align: left;
+        align-items: center;
+    }
+}
